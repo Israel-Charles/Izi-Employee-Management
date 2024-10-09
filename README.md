@@ -3,7 +3,7 @@
 >[!Note]
 > This is an ongoing project. It is currently in its first stage of life. As of right now, CLI user interaction structure is set up, CLI Interface helper functons are set up, and company registration is set up on local storage.
 
-*Izi Management Software* is a comprehensive employee management system aimed at improving company operations by providing essential tools for managing employee and company data. The software will be able to be used via a command-line interface (CLI), web interface, or local graphical user interface.
+Comprehensive employee management system aimed at improving company operations by providing essential tools for managing employee and company data. The software will be able to be used via a command-line interface (CLI), web interface, or local graphical user interface.
 
 Key features include:
 - **Employee Management**: Easily register, modify, and remove employees or volunteers, track their working hours, and generate detailed pay stubs.
