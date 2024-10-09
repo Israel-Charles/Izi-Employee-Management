@@ -12,3 +12,15 @@ Key features include:
 - **Configuration and Storage Options**: The system offers a configurable setup that allows users to choose between storing data locally or on a MySQL server, providing flexibility based on the company’s data management needs.
 
 The project emphasizes modularity, making it easier for future developers to extend the system’s functionality or integrate it with other services. The user-friendly setup process ensures the program is accessible for companies of various sizes and technical proficiencies, providing them with a robust tool for employee management.
+
+## Running Current Stage
+
+1. **Compile the Java files** with this command:
+   ```bash
+   javac -d out src/iziManagement/*.java src/helpfulFunctionsPckg/*.java
+   ```
+
+2. **Run the program** by referencing the classpath:
+   ```bash
+   java -cp out iziManagement.SetupAndRun
+   ```
