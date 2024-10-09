@@ -1,4 +1,4 @@
-# Izi Employee Management
+# Izi Employee Management System
 
 >[!Note]
 > This is an ongoing project. It is currently in its first stage of life. As of right now, CLI user interaction structure is set up, CLI Interface helper functons are set up, and company registration is set up on local storage.
